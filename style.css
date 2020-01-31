@@ -1,0 +1,26 @@
+html {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.demo {
+  margin-top: calc(30vh - 1em);
+}
+
+h1 {
+  color: #333377;
+  margin-bottom: 1em;
+}
+
+button {
+  font-weight: bold;
+  margin-right: 1em;
+  font-size: 2em;
+  padding: 0.5em;
+  background: #a1a9ff;
+  color: #2233ee;
+  min-width: 5em;
+  border-radius: 0.2em;
+  border: none;
+  cursor: pointer;
+}
